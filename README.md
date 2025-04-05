@@ -1,0 +1,2 @@
+Las dependencias usadas en este programa solamente es la de jupyter notebook. Se instala desde la terminal con los comandos 'pip install notebook', y automaticamente se nos bajara la version 7.7.3.
+A su vez para ejecutar el programa desde aca tendremos que poner en la terminal una vez instalada la dependencia, 'Jupyter notebook', abrir nuestro archivo, junto con la carpeta correspondiente que va a ser entregaN2\notebooks\Ej10.ipynb. Luego solamente tenemos que apretar en el boton de del triangulo que dice 'Run this cell and advance'
